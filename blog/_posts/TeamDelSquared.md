@@ -32,7 +32,7 @@ Also, Sharmistha says she’ll always remember her best birthday gift, which wei
 **Supervisor** (Bhumika Goyal):
 Thanks for checking in on us, time and again. And thanks to you too for helping arrange our conference tickets. We always had a sense of security that if at all anything goes wrong, we have someone who’ll listen. Thankfully, it never came to that :P 
 The group meetings have been a lot of fun too. Looking forward to that one last Hangout call with everyone, towards the end of the month. \
-**Mentors** (Kelsey Bresemann, Nick Hehr):
+**Mentors** (Kelsey Breseman, Nick Hehr):
 Thank you guys, for being the most chilled out mentors, and for being so responsive to all our queries (even the most stupid ones). Brihi and Shravika would always tell us that the Tessel project mentors were simply superb, and we couldn’t agree more. You were really supportive throughout, keeping our morale up with encouraging words. The weekly meetings were awesome and we learnt a lot from your valuable insights, not just about Tessel but also about not hesitating to reach out to others for help. Most of our meetings were with Kelsey, while the recent ones were with Nick. Hope we can meet Kelsey’s cat in our last weekly meeting :p \
 *PS*: I recently stumbled upon Kelsey’s treasure of travel blogs on Medium. Super excited to read them all. (Sharmistha) \
 **Coaches** (Brihi Joshi, Shravika Mittal, Ambar Pal, Siddharth Yadav):
